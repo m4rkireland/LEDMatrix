@@ -1,0 +1,23 @@
+Public domain Mark Ireland 2015 markireland.me
+
+These files are in the public domain to accompany the writeup
+http://markireland.me/rgb-led-matrix-sign
+
+Code originally from Andrew Oakley from the Cotswold Raspberry Jam:
+
+
+Files to accompany Raspberry Pi WS2811 LED Matrix HOWTO
+http://aoakley.com/articles/2015-11-18-raspberry-pi-christmas-led-matrix.php
+
+Public domain Andrew Oakley 2015 aoakley.com
+except for the bits that are Adafruit's or Jeremy Garff's
+https://learn.adafruit.com/neopixels-on-raspberry-pi?view=all
+https://github.com/jgarff/rpi_ws281x
+Short story is, you can pretty much do what you like with these files
+but remember to credit Adafruit and Jeremy Garff
+and be nice
+
+You don't have to credit me, but it would be nice if you could
+give our local user group a plug:
+Created as a demo for Cotswold Raspberry Jam, December 2015
+http://www.cotswoldjam.org
